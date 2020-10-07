@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: fbf47bbcd58cf437d8d07e67a79b401e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4372472199689885764
+    second: downward-air-attack_0
+  - first:
+      213: -3694711768545256743
+    second: downward-air-attack_1
+  - first:
+      213: 1569490212682168822
+    second: downward-air-attack_2
+  - first:
+      213: -2432538049298696540
+    second: downward-air-attack_3
+  - first:
+      213: -4885370234411966666
+    second: downward-air-attack_4
+  - first:
+      213: -6054428804919130544
+    second: downward-air-attack_5
+  - first:
+      213: -8823873571546265856
+    second: downward-air-attack_6
+  - first:
+      213: -5700776458833460561
+    second: downward-air-attack_7
+  - first:
+      213: 8511221832134539963
+    second: downward-air-attack_8
+  - first:
+      213: -6249849888983177517
+    second: downward-air-attack_9
+  - first:
+      213: -7040086357765750826
+    second: downward-air-attack_10
+  - first:
+      213: 723791627358844600
+    second: downward-air-attack_11
+  - first:
+      213: -8769484093815443927
+    second: downward-air-attack_12
+  - first:
+      213: -7537361470437918812
+    second: downward-air-attack_13
+  - first:
+      213: 4651715328466045186
+    second: downward-air-attack_14
+  - first:
+      213: -6185908779559995827
+    second: downward-air-attack_15
+  - first:
+      213: 6849530458275617016
+    second: downward-air-attack_16
+  - first:
+      213: -5202352576006682447
+    second: downward-air-attack_17
+  - first:
+      213: -102410776875533133
+    second: downward-air-attack_18
+  - first:
+      213: -5154913642849936073
+    second: downward-air-attack_19
+  - first:
+      213: -8375805661135219121
+    second: downward-air-attack_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: downward-air-attack_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 45
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44859cc9c442eac30800000000000000
+      internalID: 4372472199689885764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da9760d83fb9bcc0800000000000000
+      internalID: -3694711768545256743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 43
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f97f5d6803f7c510800000000000000
+      internalID: 1569490212682168822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6fde44883ed3ed0800000000000000
+      internalID: -2432538049298696540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 44
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9b95d7ada33cb0800000000000000
+      internalID: -4885370234411966666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 44
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05607e464195afba0800000000000000
+      internalID: -6054428804919130544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 47
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0070701dcbd4b8580800000000000000
+      internalID: -8823873571546265856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 49
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa28253c306c2e0b0800000000000000
+      internalID: -5700776458833460561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbabde4792fed1670800000000000000
+      internalID: 8511221832134539963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df7c41f1c69c4e90800000000000000
+      internalID: -7040086357765750826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e21bceda88c4680800000000000000
+      internalID: -8769484093815443927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f4d26da9e56790800000000000000
+      internalID: -7537361470437918812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 11
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209457502763e8040800000000000000
+      internalID: 4651715328466045186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 7
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463b554dbc372aa0800000000000000
+      internalID: -6185908779559995827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 7
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b888c635e78dc7b0800000000000000
+      internalID: -5202352576006682447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: downward-air-attack_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 7
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc7927e0f9249ef0800000000000000
+      internalID: -102410776875533133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
